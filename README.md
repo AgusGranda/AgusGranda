@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Federico Granda</h1>
+<h1 align="center">Hola 👋, Soy Federico Agustin Granda Murua</h1>
 <h3 align="center">Apasionado por la tecnologia, actualmente full stack developer y futuro especializado en back-end</h3>
 
 - 🔭 Actualmente estoy trabajando en **Gaming Pass**
