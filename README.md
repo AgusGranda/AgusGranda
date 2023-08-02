@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Federico Agustin Granda Murua</h1>
-<h3 align="center">Apasionado por la tecnologia, Desarrollador Full Stack Node. </h3>
+<h3 align="center">Apasionado por la tecnologia, Desarrollador Full Stack. </h3>
 
-- 🔭 Actualmente estoy trabajando en **Gaming Pass**
+- 🔭 Actualmente estoy trabajando en **MirkWood**
 
 - 🌱 Aprendiendo **Analisis de Sistemas**
 
