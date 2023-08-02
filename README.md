@@ -3,7 +3,9 @@
 
 - 🔭 Actualmente estoy trabajando en **MirkWood**
 
-- 🌱 Aprendiendo **Analisis de Sistemas**
+- 📚 Estudiando **Analisis de Sistemas**
+  
+- 🌱 Aprendiendo **PHP y JAVA**
 
 - 📫 Donde contactarme **federico.granda@hotmail.com**
 
