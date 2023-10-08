@@ -5,7 +5,7 @@
 
 - 📚 Estudiando **Analisis de Sistemas**
   
-- 🌱 Aprendiendo **PHP y JAVA**
+- 🌱 Aprendiendo **.NET Core 6**
 
 - 📫 Donde contactarme **federico.granda@hotmail.com**
 
