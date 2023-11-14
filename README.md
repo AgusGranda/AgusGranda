@@ -5,7 +5,7 @@
 
 - 📚 Estudiando **Analisis de Sistemas**
   
-- 🌱 Aprendiendo **.NET Core 6**
+- 🌱 Aprendiendo **.NET**
 
 - 📫 Donde contactarme **federico.granda@hotmail.com**
 
