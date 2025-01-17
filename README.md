@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Federico Granda</h1>
-<h3 align="center">Apasionado por la tecnologia, Desarrollador Full Stack.</h3>
+<h1 align="center">Hola 👋, Soy Agustin Granda</h1>
+<h3 align="center">Desarrollador Backend .NET</h3>
 
 - 📚 Estudiando **Analisis de Sistemas**
 
