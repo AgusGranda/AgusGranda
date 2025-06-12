@@ -3,11 +3,11 @@
 
 - 📚 Estudiando **Analisis de Sistemas**
 
-- 🌱 Aprendiendo **.Net Core**
+- 🌱 Aprendiendo **Seguridad y Operaciones**
 
 - 👨‍💻 Mis proyectos disponibles en [https://agusgranda.github.io/Portfolio/](https://agusgranda.github.io/Portfolio/)
 
-- 📫 Donde contactarme **federico.granda@hotmail.com**
+- 📫 Donde contactarme **agustin.granda22@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
