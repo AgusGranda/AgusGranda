@@ -5,8 +5,6 @@
 
 - 🌱 Aprendiendo **Seguridad y Operaciones**
 
-- 👨‍💻 Mis proyectos disponibles en [https://agusgranda.github.io/Portfolio/](https://agusgranda.github.io/Portfolio/)
-
 - 📫 Donde contactarme **agustin.granda22@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
